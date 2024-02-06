@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamoonansari&label=Profile%20views&color=0e75b6&style=plastic" alt="shamoonansari" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://shamoonportfolio.netlify.app/](https://shamoonportfolio.netlify.app/)
+
 
 - 📫 How to reach me **shamoonansaripc@gmail.com**
 
