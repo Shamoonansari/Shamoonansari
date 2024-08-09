@@ -2,7 +2,10 @@
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamoonansari&label=Profile%20views&color=0e75b6&style=plastic" alt="shamoonansari" />
+  <!-- Updated profile view counter using itsvg.in -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=shamoonansari&label=Profile%20Views&color=6&icon=0&pretty=false" alt="Profile Views" />
+  </a>
 </p>
 
 ---
