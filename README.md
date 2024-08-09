@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
 <p align="center">
-  <!-- Updated profile view counter using itsvg.in with light blue color -->
+  <!-- Updated profile view counter using itsvg.in with LinkedIn color -->
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shamoonansari&label=Profile%20Views&color=add8e6&icon=0&pretty=false" alt="Profile Views" />
+    <img src="https://visitcount.itsvg.in/api?id=shamoonansari&label=Profile%20Views&color=0077b5&icon=0&pretty=false" alt="Profile Views" />
   </a>
 </p>
 
