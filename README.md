@@ -13,7 +13,7 @@
 - 🔍 I'm skilled in **Excel, Power BI, SQL & Python**
 - 📂 Check out all of my projects at [My Portfolio](https://codebasics.io/portfolio/Shamoon-Ansari)
 - 📫 How to reach me: **shamoonansaripc@gmail.com**
-- 📄 View my resume: [Resume](https://drive.google.com/file/d/1347XirxJpN0Fm09VCvA6qDY-03poInZ4/view?usp=sharing)
+- 📄 View my resume: [Resume](https://drive.google.com/file/d/1g3mgeIa8FphvIfldSVt1LRMBIeM6nuDv/view)
 
 ---
 
