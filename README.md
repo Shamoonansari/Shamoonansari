@@ -3,10 +3,6 @@
 
 <p align="center">
   <!-- Updated profile view counter using itsvg.in -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shamoonansari&label=Profile%20Views&color=6&icon=0&pretty=false" alt="Profile Views" />
-  </a>
-</p>
 
 ---
 
